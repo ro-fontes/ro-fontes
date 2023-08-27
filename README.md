@@ -45,7 +45,7 @@ Brief description of the project. Technologies used: React, Nest.js, MongoDB.
 -->
 ## Contact
 
-📧 Email: fontes.rodrigo14@gmail.com
-🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rodrigo-b-s-fontes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fontes.rodrigo14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-b-s-fontes/)
 
 Feel free to get in touch and explore my projects. Let's collaborate and build amazing things together!
