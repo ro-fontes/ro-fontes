@@ -1,7 +1,7 @@
 # Welcome to My GitHub Portfolio! 👋
 
 ## About Me
-I'm a passionate Full-Stack developer dedicated to creating innovative and functional technological solutions. With 3 years of experience, I possess expertise in various technologies to deliver comprehensive and high-quality projects.
+I'm a passionate Full-Stack developer dedicated to creating innovative and functional technological solutions. With 6 years of experience, I possess expertise in various technologies to deliver comprehensive and high-quality projects.
 
 ## Core Technologies
 
